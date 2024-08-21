@@ -148,3 +148,6 @@ initialize.sh
 
 # vscode
 .vscode/
+
+# mp3 files
+*.mp3
